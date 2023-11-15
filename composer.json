@@ -1,0 +1,21 @@
+{
+    "name": "asmoday74/yii2-fontawesome6",
+    "description": "Font Font Awesome 6 for Yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","Font Awesome 6"],
+    "license": "BSD-4-Clause",
+    "authors": [
+        {
+            "name": "Maksim Klimov",
+            "email": "asm@mail-tm.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "asmoday74\\fontawesome6\\": ""
+        }
+    }
+}
